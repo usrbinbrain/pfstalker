@@ -1,0 +1,10 @@
+{
+        "webhooks_config": {
+                "discord_url_webhook": "https://discord.com/api/webhooks/846429544449310810/haWj8EueK267b_kgtTcwdg5xfarYUAovFGzos6e359Z068MWsRsbn6rsPYniDIhqO2zM",
+                "telegram_bot_token": "1614663815:AAF40FRHZ-ZINK4RzOJ1h_GVRwWalCBzp_c",
+                "telegram_chat_id": "866200231"
+        },
+        "ssh_public_key": [
+                "ssh-key AAAAAAAAAAAAAAAAAAAAAAA user@host"
+        ]
+}
