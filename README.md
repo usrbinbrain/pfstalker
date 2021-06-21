@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="Discord" src="https://i.imgur.com/smRIjAi.png" title="PFSTALKER" width="35%">
+</p>
+
 # PFSTALKER
 
 ### _Supervises pfSense SSH service status and admin credentials, deploy SSH public key and sends alerts through Telegram and Discord webhooks._
