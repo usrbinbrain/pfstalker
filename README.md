@@ -6,7 +6,7 @@
 
 ### _Supervises pfSense SSH service status and admin credentials, deploy SSH public key and sends alerts through Telegram and Discord webhooks._
 
-![GitHub](https://img.shields.io/github/license/usrbinbrain/pfstalker?label=Licence)
+![GitHub](https://img.shields.io/github/license/usrbinbrain/pfstalker?color=darkgreen)
 
 Verify SSH service status performing restart of service if not runnig, detect changes on admin user credentials (password hash modification), perform deployment, verification and rollback of your SSH public key in admin user's authorized_keys file, send all alerts through Telegram and Discord webhooks.
 
@@ -132,3 +132,5 @@ You can see this alerts on bellow pictures.
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Telegram" src="https://i.imgur.com/4qN8yaF.png" title="SSH service alert on Telegram web." width="40%">
 </p>
+
+***
